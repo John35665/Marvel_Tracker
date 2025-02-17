@@ -1,0 +1,34 @@
+[
+  {
+    "player_name": "ee",
+    "rank": "Platinum 3",
+    "top_heroes": "Wolverine (0 hrs), Storm (0 hrs), Hela (0 hrs)",
+    "most_used_hero": "Hero ID: 1015",
+    "win_loss": "1/1 (50%)",
+    "updated": true
+  },
+  {
+    "player_name": "as",
+    "rank": "Unranked",
+    "top_heroes": "",
+    "most_used_hero": "Hero ID: None",
+    "win_loss": "0/0 (0%)",
+    "updated": true
+  },
+  {
+    "player_name": "ne",
+    "rank": "Unranked",
+    "top_heroes": "Peni Parker (3 hrs), Mister Fantastic (2 hrs), Star-Lord (1 hrs)",
+    "most_used_hero": "Peni Parker",
+    "win_loss": "5/5 (50%)",
+    "updated": true
+  },
+  {
+    "player_name": "OT",
+    "rank": "Platinum 1",
+    "top_heroes": "Cloak & Dagger (9 hrs), Doctor Strange (2 hrs), Magneto (1 hrs)",
+    "most_used_hero": "Magneto",
+    "win_loss": "3/7 (30%)",
+    "updated": true
+  }
+]
